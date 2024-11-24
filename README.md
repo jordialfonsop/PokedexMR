@@ -1,2 +1,1 @@
-# PokedexMR
-Project for the GFT challenge for HackEPS 2024
+# ARIDAA-Training
